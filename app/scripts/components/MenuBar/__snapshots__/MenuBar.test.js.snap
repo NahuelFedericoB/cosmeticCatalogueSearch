@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MenuBar /> should render correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="menu"
+  >
+    <div
+      class="menu-container"
+    >
+      <div
+        class="menu-holder"
+      >
+        <h1>
+          ELC
+        </h1>
+        <nav>
+          <a
+            class="nav-item"
+            href="#"
+          >
+            HOLIDAY
+          </a>
+          <a
+            class="nav-item"
+            href="#"
+          >
+            WHAT'S NEW
+          </a>
+          <a
+            class="nav-item"
+            href="#"
+          >
+            PRODUCTS
+          </a>
+          <a
+            class="nav-item"
+            href="#"
+          >
+            BESTSELLERS
+          </a>
+          <a
+            class="nav-item"
+            href="#"
+          >
+            GOODBYES
+          </a>
+          <a
+            class="nav-item"
+            href="#"
+          >
+            STORES
+          </a>
+          <a
+            class="nav-item"
+            href="#"
+          >
+            INSPIRATION
+          </a>
+          <a>
+            <i
+              class="material-icons search"
+            >
+              search
+            </i>
+          </a>
+        </nav>
+      </div>
+    </div>
+    <div
+      class="search-container"
+    >
+      <input
+        placeholder="Search..."
+        type="text"
+      />
+      <a
+        href="#"
+      >
+        <i
+          class="material-icons close"
+        >
+          close
+        </i>
+      </a>
+    </div>
+  </header>
+</DocumentFragment>
+`;
